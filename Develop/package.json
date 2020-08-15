@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "e-commerce application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/rcelevante/e-commerce.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Rochelle Ruiz",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
+  "bugs": {
+    "url": "https://github.com/rcelevante/e-commerce/issues"
+  },
+  "homepage": "https://github.com/rcelevante/e-commerce#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
